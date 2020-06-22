@@ -1,4 +1,65 @@
-# ZSH
-## Oh my ZSH
+# External stuff
+## Identity
+### GPG keys
+illern@illertass.se
+ictis@ictis-it.se
+info@ictis-it.se
+### SSH keys
+illern
+illern @ elits
+ictis
+
+
+# Applications
+## Packages and App Store mixed
+1Password
+1Password, plugin
+Apple Configurator
+Bear
+Bear, plugin
+DaisyDisk
+Europa Universalis Rome Gold
+Garageband?
+GIMP
+Google File Stream
+GPG-tools inklusive instick för Apple Mail
+HomeBrew
+iBooks Author
+iMovie?
+iTerm 2
+Keybase
+Keynote
+LaTeX
+Lingon X7
+Little Snitch
+MacPilot
+MacPorts
+MalwareBytes for Mac
+MicroSnitch
+Microsoft Remote Desktop
+Microsoft Teams
+MovieSherlock
+NMap
+Network Radar
+Numbers
+Oh my ZSH
+Pages
+Pocket, plugin
+Sandkorn
+Server
+StoryPlanner for Writers
+Xcode
+Command line tools for Xcodei
+
+# Installations
+## ZSH
+### Oh my ZSH
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+
+# Settings
+
+Skärmsläckare 2 min
+Skärmsläckare meddelande med klocka
+Lås efter 5 s
+Låshörn, nedre vänstra
 
