@@ -57,9 +57,77 @@ Command line tools for Xcodei
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 
 # Settings
+## Early settings
+### Language
+English (UK)
+Swedish
+### Keyboard
+Swedish Pro
+### Dictionary 
+English (UK)
+### Apple ID
+Login Apple ID
+Don't allow Apple ID rest password
+### Share data
+Apple
+Developers
+### Siri
+Activate Ask Siri
+### Hostname
+Spirit Rebellious 
+spiritrebellious
+## Internet accounts
+illern@illertass.se
+ictis@ictis-it.se
+theferret@icloud.com / me.com
+kristoffer.holmen@rockbladet.se
+## Adminanvändare
+sysadmferret
+## Family Sharing
+Annika S?
+## Applications
+### Photos
+Photos, optimised storage
+### SSH
+Keys, illern
+Keys, ELITS/KS
+Keys, ictis
+### Open GPG
+illern@illertass.se
+ictis@ictis-it.se
+kristoffer.holmen@rockbladet.se
+theferret@icloud.com
 
+## System Preferences
+### Skärmsläckare och skärmlås
 Skärmsläckare 2 min
 Skärmsläckare meddelande med klocka
 Lås efter 5 s
 Låshörn, nedre vänstra
+### General
+Dark purple highlight
+Auto hide/show menu bar
+Show scrollbars always
+Scrollbars jump to the spot
+Default browser Safari or Firefox
+Ask to keep changes when closing documents
+Don't close windows when closing app
+### Dock
+Auto hide/show dock
+Minimise windows to app
+### Shortcuts and keys
+Realign?
+Ändra/lägg till genvägar
+
+# Efterarbete
+Rensa och lägg till i dockan
+Rensa synkat skrivbord
+Rensa synkad Documents
+
+Find my Mac påslaget
+
+iCloud Keychain
+
+Rensa listan över enheter
+
 
