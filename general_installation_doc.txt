@@ -118,6 +118,49 @@ Minimise windows to app
 ### Shortcuts and keys
 Realign?
 Ändra/lägg till genvägar
+### Keyboard
+#### Text
+frt -> <\,/\,~~
+Don't auto correct spelling
+Don't capitalise
+No full stop with double space
+Shortcuts, utarbeta, lägga om motsvarande Linux?
+Use keyboard navigation
+#### Dictation
+Dictation on
+### Trackpad
+Tap to click
+Öka hastighet
+### Displays
+Nightshift sunrise 'til sundown
+### Energy saver
+#### Power adapter
+Screen of after 15 min
+#### Battery
+Screen off 5 min
+### Sharing
+Allow remote login for admins (SSH)
+Allow Remote management (ARD) for illern adn admins
+### Messages
+#### General
+Save history
+Notify mentioned
+Message received, sound = none
+
+### Notifications
+Preview when unlocked
+Don't show notifications on lock screen
+### Share
+Add to books
+### Security and privacy
+Require password 5 seconds
+Allow apps from App Store and identified developers
+Firewall on
+### Updates
+Check for updates
+Install system data files and security updates
+### Sound
+Alert = ping
 
 # Efterarbete
 Rensa och lägg till i dockan
@@ -129,5 +172,8 @@ Find my Mac påslaget
 iCloud Keychain
 
 Rensa listan över enheter
+
+## Network preferrable
+<\,/\,~~
 
 
