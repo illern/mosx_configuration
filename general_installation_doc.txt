@@ -31,7 +31,10 @@ Keybase
 Keynote
 LaTeX
 Lingon X7
+  [ ] Run agent
+  VIew -> System
 Little Snitch
+  Import rules
 MacPilot
 MacPorts
 MalwareBytes for Mac
@@ -55,7 +58,8 @@ Command line tools for Xcodei
 ## ZSH
 ### Oh my ZSH
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
-
+## Environment
+Git clone
 # Settings
 ## Early settings
 ### Language
@@ -240,3 +244,8 @@ Safai opens last session
 Homepage empty
 Don't open safe files
 
+
+
+sudo scutil --set HostName spiritrebelliousiv
+sudo scutil --set LocalHOstName spiritrebelliousiv
+sudo scutil --set COmputerName "Spirit Rebellious IV"
