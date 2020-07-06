@@ -176,4 +176,67 @@ Rensa listan över enheter
 ## Network preferrable
 <\,/\,~~
 
+## Application settings
+### FaceTime
+reached by mobile number
+reached by e-mail address
+ringtone Aurora
+### Contacts
+Enable priv me card
+### Calendar
+Scroll week, stop today
+default calendar - illerns
+day - 6h 08-17
+show week numbers
+### Notes
+default acount illern@illertass.se
+### Finder
+Show on Desktop <none>
+New window @ host
+#### Show in Sidebar
+##### Favourites
+Recents
+Airdrop
+Applications
+illern
+##### iCloud
+iCloud
+Desktop
+Documents
+##### Locations
+all
+#### Advanced
+Show filename extension
+Remove from bin in 30 days
+#### Default settings [CMD] + [J]
+Always show list view
+Use groups - kind
+Show tabs bar
+Show Path bar
+Show status bar
+icon sixe large
+calculate sizes
+show Library folder
+##### Columns
+show version
+show date added
+### TExtEdit
+Plain text
+Wrap to page
+Display HTM & RTF code
+Saving - UTF8
+### Podcasts
+Autodownload never
+### Voice memos
+iCloud sync
+### Safari
+Reading list
+Save articles offline
+Show full web address
+Default encoding UTF-8
+Show Developer menu
+Show website icons
+Safai opens last session
+Homepage empty
+Don't open safe files
 
